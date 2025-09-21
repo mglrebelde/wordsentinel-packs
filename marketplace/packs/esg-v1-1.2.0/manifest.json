@@ -1,0 +1,12 @@
+{
+  "packId": "wordsentinel/esg-v1@1.2.0",
+  "skoId": "wordsentinel/esg-v1",
+  "slug": "wordsentinel/esg-v1",
+  "version": "1.2.0",
+  "engines": ["temporal"],
+  "qualityRef": {
+    "reportPath": "reports/sweeper/esg-v1.2.json",
+    "reportDigest": "sha256:abc123def456"
+  },
+  "supersededBy": null
+}

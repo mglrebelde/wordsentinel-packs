@@ -1,0 +1,17 @@
+{
+  "packId": "wordsentinel/procurement-2025@1.0.0",
+  "skoId": "wordsentinel/procurement-2025",
+  "slug": "wordsentinel/procurement-2025",
+  "version": "1.0.0",
+  "description": "Procurement 2025 v1.0.0 - Procurement compliance and best practices verification",
+  "engines": ["temporal"],
+  "qualityRef": {
+    "reportPath": "reports/sweeper/procurement-v1.json",
+    "reportDigest": "sha256:def456abc789"
+  },
+  "metadata": {
+    "category": "compliance",
+    "domain": "procurement",
+    "minPassRate": 0.75
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "packId": "wordsentinel/esg-v1@1.2.0",
+  "skoId": "wordsentinel/esg-v1",
+  "slug": "wordsentinel/esg-v1",
+  "version": "1.2.0",
+  "description": "ESG Strict Provenance v1.2.0 - Environmental, Social, and Governance compliance verification",
+  "engines": ["temporal"],
+  "qualityRef": {
+    "reportPath": "reports/sweeper/esg-v1.2.json",
+    "reportDigest": "sha256:abc123def456"
+  },
+  "metadata": {
+    "category": "compliance",
+    "domain": "esg",
+    "minPassRate": 0.70
+  }
+}
