@@ -1,0 +1,15 @@
+{
+  "name": "wordsentinel-packs",
+  "version": "1.0.0",
+  "description": "WordSentinel Proof OS: deterministic SKO packs, CLI, and docs",
+  "scripts": {
+    "check:large": "MAX_BYTES=10485760 node scripts/check-large-files.mjs",
+    "check:engine-versions": "node scripts/check-engine-versions.mjs",
+    "check:doctrine": "node scripts/check-doctrine.js",
+    "check:esm": "node scripts/check-esm-imports.mjs",
+    "check:types-imports": "node scripts/check-types-imports.cjs"
+  },
+  "engines": {
+    "node": ">=20.0.0"
+  }
+}
