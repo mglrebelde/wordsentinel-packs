@@ -1,0 +1,16 @@
+# builds/cache
+.next/
+dist/
+build/
+coverage/
+reports/sweeper/*.html
+# deps/artifacts
+node_modules/
+*.tgz
+*.pack
+*.pdf
+*.mp4
+# demos bundles
+demos/*-demo.tgz
+# OS/editor
+.DS_Store
